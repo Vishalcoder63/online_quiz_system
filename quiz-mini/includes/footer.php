@@ -1,0 +1,15 @@
+    </main>
+    <footer class="bg-dark text-light text-center py-3 mt-5">
+        <p>&copy; <?php echo date("Y"); ?> Online Quiz System. All Rights Reserved.</p>
+    </footer>
+    <style>
+        footer{
+            margin: 0;
+        }
+    </style>
+
+    <!-- JS Files -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/online_quiz_system/assets/js/script.js"></script>
+</body>
+</html>
